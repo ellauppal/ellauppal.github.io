@@ -22,11 +22,6 @@
   color: #ffffff;
 }
 
-.name.animate-enter {
-  animation: animate-enter-frames 5s ease-in-out 0s 1 normal forwards;
-  opacity: 0;
-}
-
 .ce {
   font-family: Saira;
   font-size: 60px;
@@ -39,6 +34,11 @@
   margin-bottom: 1.5cm;
 
   color: #ffffff;
+}
+
+.name.animate-enter {
+  animation: animate-enter-frames 5s ease-in-out 0s 1 normal forwards;
+  opacity: 0;
 }
 
 .ce.animate-enter {
@@ -59,4 +59,31 @@
   background-color: rgb(55, 252, 255);
   height: 7px;
   width: 1353px;
+}
+
+.btn {
+  background: #ad00ff;
+  height: 105px;
+  min-width: 317px;
+  border: 1px #ad00ff;
+
+  font-family: Saira;
+  font-style: normal;
+  font-weight: 300 !important;
+  color: #ffffff;
+  text-align: center;
+  font-size: 45px !important;
+  border-radius: 80px !important;
+
+  margin-top: 3cm;
+  margin-left: 2cm;
+}
+
+.btn:focus {
+  outline: none !important;
+}
+
+.btn:hover {
+  transform: scale(1.1);
+  color: #ffffff !important;
 }
