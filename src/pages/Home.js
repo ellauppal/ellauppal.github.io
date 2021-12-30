@@ -1,5 +1,16 @@
+import Line from '../components/Line';
+
 function Home() {
-  return;
+  return (
+    <div>
+      <Line />
+      <h1 className='name animate-enter' >ELLA UPPAL</h1>
+      <h2 className='ce animate-enter'>1B COMPUTER ENGINEERING</h2>
+      <Line />
+    </div>
+  );
 }
 
 export default Home;
+
+// <h2 >1B COMPUTER ENGINEERING</h2>
