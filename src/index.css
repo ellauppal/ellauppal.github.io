@@ -23,17 +23,8 @@
 }
 
 .name.animate-enter {
-  animation: animate-enter-frames 3s ease-in-out 0s 1 normal forwards;
+  animation: animate-enter-frames 5s ease-in-out 0s 1 normal forwards;
   opacity: 0;
-}
-
-@keyframes animate-enter-frames {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
 }
 
 .ce {
@@ -51,7 +42,7 @@
 }
 
 .ce.animate-enter {
-  animation: animate-enter-frames 3s ease-in-out 0s 1 normal forwards;
+  animation: animate-enter-frames 5s ease-in-out 0s 1 normal forwards;
   opacity: 0;
 }
 
