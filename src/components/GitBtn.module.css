@@ -1,0 +1,30 @@
+.btn {
+    background: #FF00D6;
+    height: 105px;
+    min-width: 317px;
+    border: 1px #FF00D6;
+  
+    font-family: Saira;
+    font-style: normal;
+    font-weight: 300 !important;
+    color: #ffffff;
+    text-align: center;
+    font-size: 45px !important;
+    border-radius: 80px !important;
+  
+    margin-top: 3cm;
+    margin-left: 2cm;
+  }
+  
+  .btn:focus {
+    outline: none !important;
+  }
+  
+  .btn:hover {
+    transform: scale(1.1);
+    color: #ffffff !important;
+  }
+
+  @import url('http://fonts.googleapis.com/css?family=Saira:400,300');
+
+  

@@ -7,15 +7,14 @@ function App() {
   return (
     <div className='background'>
       <Router history={history}>
-      <Switch>
-        <Route path='/' exact>
-          <Home />
-        </Route>
-
-        <Route path='/about'>
-          <About />
-        </Route>
-      </Switch>
+        <Switch>
+          <Route path='/' exact>
+            <Home />
+          </Route>
+          <Route path='/about'>
+            <About />
+          </Route>
+        </Switch>
       </Router>
     </div>
   );

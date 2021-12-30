@@ -61,29 +61,10 @@
   width: 1353px;
 }
 
-.btn {
-  background: #ad00ff;
-  height: 105px;
-  min-width: 317px;
-  border: 1px #ad00ff;
-
-  font-family: Saira;
-  font-style: normal;
-  font-weight: 300 !important;
-  color: #ffffff;
-  text-align: center;
-  font-size: 45px !important;
-  border-radius: 80px !important;
-
-  margin-top: 3cm;
-  margin-left: 2cm;
-}
-
-.btn:focus {
-  outline: none !important;
-}
-
-.btn:hover {
-  transform: scale(1.1);
-  color: #ffffff !important;
+.top {
+  margin: 30px 0;
+  font-weight: bold;
+  display: flex;
+  flex-direction: row !important;
+  justify-content: space-between;
 }
