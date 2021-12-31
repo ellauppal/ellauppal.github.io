@@ -5,7 +5,7 @@ import history from './history';
 
 function App() {
   return (
-    <div className='background'>
+    <div>
       <Router history={history}>
         <Switch>
           <Route path='/' exact>

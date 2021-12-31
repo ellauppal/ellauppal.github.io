@@ -6,15 +6,15 @@ import { Container } from 'react-bootstrap';
 
 function Home() {
   return (
-    <div>
+    <div className='background1'>
       <Line />
       <h1 className='name animate-enter'>ELLA UPPAL</h1>
       <h2 className='ce animate-enter'>1B COMPUTER ENGINEERING</h2>
       <Line />
-      <Container className='top'>
-      <AboutBtn />
-      <LinkedinBtn />
-      <GitBtn />
+      <Container className='holder'>
+        <AboutBtn />
+        <LinkedinBtn />
+        <GitBtn />
       </Container>
     </div>
   );

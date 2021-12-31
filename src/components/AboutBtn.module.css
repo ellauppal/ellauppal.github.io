@@ -13,6 +13,8 @@
     border-radius: 80px !important;
   
     margin-top: 3cm;
+
+    transition: all 0.2s ease;
   }
   
   .btn:focus {
@@ -20,7 +22,7 @@
   }
   
   .btn:hover {
-    transform: scale(1.1);
+    transform: scale(1.2);
     color: #ffffff !important;
   }
 
