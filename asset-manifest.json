@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ellauppal/static/css/main.54a6844f.css",
+    "main.js": "/ellauppal/static/js/main.6c7e91dc.js",
+    "static/media/FACE2.png": "/ellauppal/static/media/FACE2.47ea0279356eab03b527.png",
+    "static/media/glyphicons-halflings-regular.svg": "/ellauppal/static/media/glyphicons-halflings-regular.060b2710bdbbe3dfe48b.svg",
+    "static/media/glyphicons-halflings-regular.ttf": "/ellauppal/static/media/glyphicons-halflings-regular.4692b9ec53fd5972caa2.ttf",
+    "static/media/glyphicons-halflings-regular.woff": "/ellauppal/static/media/glyphicons-halflings-regular.82b1212e45a2bc35dd73.woff",
+    "static/media/glyphicons-halflings-regular.eot": "/ellauppal/static/media/glyphicons-halflings-regular.5be1347c682810f199c7.eot",
+    "static/media/glyphicons-halflings-regular.woff2": "/ellauppal/static/media/glyphicons-halflings-regular.be810be3a3e14c682a25.woff2",
+    "index.html": "/ellauppal/index.html",
+    "main.54a6844f.css.map": "/ellauppal/static/css/main.54a6844f.css.map",
+    "main.6c7e91dc.js.map": "/ellauppal/static/js/main.6c7e91dc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.54a6844f.css",
+    "static/js/main.6c7e91dc.js"
+  ]
+}
